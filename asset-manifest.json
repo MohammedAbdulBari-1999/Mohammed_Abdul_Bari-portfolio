@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mohammed_Abdul_Bari-portfolio/static/css/main.e6c13ad2.css",
-    "main.js": "/Mohammed_Abdul_Bari-portfolio/static/js/main.59612e7b.js",
+    "main.js": "/Mohammed_Abdul_Bari-portfolio/static/js/main.3a5d285a.js",
     "static/js/453.871b5c0c.chunk.js": "/Mohammed_Abdul_Bari-portfolio/static/js/453.871b5c0c.chunk.js",
     "index.html": "/Mohammed_Abdul_Bari-portfolio/index.html",
     "main.e6c13ad2.css.map": "/Mohammed_Abdul_Bari-portfolio/static/css/main.e6c13ad2.css.map",
-    "main.59612e7b.js.map": "/Mohammed_Abdul_Bari-portfolio/static/js/main.59612e7b.js.map",
+    "main.3a5d285a.js.map": "/Mohammed_Abdul_Bari-portfolio/static/js/main.3a5d285a.js.map",
     "453.871b5c0c.chunk.js.map": "/Mohammed_Abdul_Bari-portfolio/static/js/453.871b5c0c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.59612e7b.js"
+    "static/js/main.3a5d285a.js"
   ]
 }
